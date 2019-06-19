@@ -47,5 +47,6 @@
 
 	<modules>
     	<module>unexploded-cow</module>
+    	<module>discovery-server</module>
   	</modules>
 </project>
